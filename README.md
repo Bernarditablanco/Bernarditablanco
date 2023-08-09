@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bernarditablanco
 - 👀 I’m interested in become to a full stack developer 
-- 🌱 I’m currently learning everithing 
+- 🌱 I’m currently learning everything everywhere all at once
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sendme a email to: blancoita64@gamil.com
 
